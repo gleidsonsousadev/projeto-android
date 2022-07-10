@@ -41,12 +41,12 @@ header {
 header h1 {
     color: white;
     margin-bottom: 20px;
-    font-size: 5em;
+    font-size: 3em;
 }
 
 header p {
     color: white;
-    font-size: 2em;
+    font-size: 1.4em;
 }
 
 nav {
